@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A63A50</color>
+    <color name="colorPrimaryDark">#BA6E6E</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fab_1_color">#F0E7D8</color>
+    <color name="fab_2_colot">#F0E7D8</color>
+    <color name="background">#F0E7D8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#565656</color>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SaveLink</string>
+    <string name="add">Add</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="password">Password</string>
+    <string name="new_name">New name</string>
+    <string name="rename">RENAME</string>
+    <string name="cancel">CANCEL</string>
+    <string name="open">OPEN</string>
+    <string name="add_folder_with_password">Add Folder with password</string>
+    <string name="add_folder">Add Folder</string>
+    <string name="add_new_link">Add new link</string>
+    <string name="url">URL</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">DELETE</string>
+    <string name="ok">OK</string>
+    <string name="about_me">Hi, i\'m a programmer from Russia \nMy contacts:</string>
+    <string name="mail">blabla0128@mail.ru</string>
+    <string name="about_me_main">About me</string>
+</resources>
